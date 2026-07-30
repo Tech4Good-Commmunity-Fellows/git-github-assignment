@@ -1,5 +1,7 @@
 # Learning Notes
 
+Notes on Git commands I used and learned while working through this assignment.
+
 ## 1. git clone
 
 **What it does:** Copies a repository from GitHub down onto my own computer, so I have a full local copy to work with — including all its history.
