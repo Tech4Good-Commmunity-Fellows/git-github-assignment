@@ -1,10 +1,10 @@
 # Mahima
 
 - Name: Mahima
-- College: > TODO: Add your college name.
-- Favourite programming language: > TODO: Add your favourite programming language.
-- Favourite project: > TODO: Add a project you enjoyed working on.
-- Technologies known: > TODO: List the technologies you know.
-- Workshop reflections: > TODO: Write a short reflection on what you learned.
-- One Git concept learned: > TODO: Add one Git concept you learned today.
-- One Git concept to explore further: > TODO: Add one Git concept you want to study next.
+- College: Barkatullah vishwavidhyalaya bhopal
+- Favourite programming language: Python, JavaScript, Java
+- Favourite project: Two players trivia game project
+- Technologies known: Python, javaScript, core java, HTML, CSS, Git, GitHub, Linux, 
+- Workshop reflections: I learned how Git and GitHub are used together in real-world collaborative software development.
+- One Git concept learned: Branching
+- One Git concept to explore further: Git Rebase
