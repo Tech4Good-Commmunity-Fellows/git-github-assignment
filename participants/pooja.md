@@ -1,10 +1,11 @@
 # Pooja
 
 - Name: Pooja
-- College: > TODO: Add your college name.
-- Favourite programming language: > TODO: Add your favourite programming language.
-- Favourite project: > TODO: Add a project you enjoyed working on.
-- Technologies known: > TODO: List the technologies you know.
-- Workshop reflections: > TODO: Write a short reflection on what you learned.
-- One Git concept learned: > TODO: Add one Git concept you learned today.
-- One Git concept to explore further: > TODO: Add one Git concept you want to study next.
+- College: Sai Vidya Institute of Technology
+- Favourite programming language: Python
+- Favourite project: Stock market analyser
+- Technologies known: python, html, css. javascript, react(basics)
+- Workshop reflections: confident with basic commands and operations, clear about the concepts
+- One Git concept learned: > conceptual clarity about git add, commit and push
+- One Git concept to explore further: pull requests
+  
