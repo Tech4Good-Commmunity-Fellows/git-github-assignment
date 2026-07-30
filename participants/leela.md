@@ -1,10 +1,10 @@
 # Leela
 
 - Name: Leela
-- College: > TODO: Add your college name.
-- Favourite programming language: > TODO: Add your favourite programming language.
-- Favourite project: > TODO: Add a project you enjoyed working on.
-- Technologies known: > TODO: List the technologies you know.
-- Workshop reflections: > TODO: Write a short reflection on what you learned.
-- One Git concept learned: > TODO: Add one Git concept you learned today.
-- One Git concept to explore further: > TODO: Add one Git concept you want to study next.
+- College: > TODO:Government Vijay Bhushan Singh Deo Girls College Jashpur.
+- Favourite programming language: > TODO: JavaScript, Python.
+- Favourite project: > TODO:APJ institute project(https://apjinsitute.in/).
+- Technologies known: > TODO: Html, Css, Js, Python, C, DSA, MongoDB,React, Node.js, git, github.
+- Workshop reflections: > TODO:I learned about the why we need 3 diffrent commands(git add ., git commit, git push) I understand this, the areas developer area, stazing area, production area, how to fork the repo and how to raise the PR.
+- One Git concept learned: > TODO: developer area, stazing area, production area.
+- One Git concept to explore further: > TODO: how to merge branch merging and how to review the code before merging.
