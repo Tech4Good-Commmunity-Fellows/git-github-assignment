@@ -1,11 +1,10 @@
 # Learning Notes
 
 ## git clone
-Purpose: Copies a repository from GitHub to my computer.
 
-Real-world use:
-When joining a project for the first time.
+**Purpose:** Copies a repository from GitHub to my computer.
 
+**Real-world use:** When joining a project for the first time.
 ## git status
 Purpose: Shows current file changes.
 
