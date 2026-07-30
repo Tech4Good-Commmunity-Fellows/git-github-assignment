@@ -1,15 +1,13 @@
 # History Report
 
-## Questions
+## Who made the first commit?
+ca10d87 - Initial workshop repository
 
-### Who made the first commit?
-To be determined using Git history.
+## Which commit added the Contributors section?
+8665eca - Add contributors section
 
-### Which commit added the Contributors section?
-To be determined using Git history.
+## How many commits exist on main?
+(To be updated after running git rev-list --count main)
 
-### How many commits exist on main?
-To be determined using Git history.
-
-### Which branch was merged most recently?
-To be determined after reviewing merged branches.
+## Which branch was merged most recently?
+No branch has been merged yet at the time of writing this report.
