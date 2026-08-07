@@ -1,10 +1,12 @@
 # Leela
 
-- Name: Leela
-- College: > TODO: Add your college name.
-- Favourite programming language: > TODO: Add your favourite programming language.
-- Favourite project: > TODO: Add a project you enjoyed working on.
-- Technologies known: > TODO: List the technologies you know.
-- Workshop reflections: > TODO: Write a short reflection on what you learned.
-- One Git concept learned: > TODO: Add one Git concept you learned today.
-- One Git concept to explore further: > TODO: Add one Git concept you want to study next.
+ Name: Leela Chouhan.
+ College: Government Vijay Bhushan Singh Deo Girls College Jashpur.
+ Favourite programming language: JavaScript, Python.
+ Favourite project: APJ Institute Project (https://apjinsitute.in/).
+ Technologies known: HTML, CSS, JavaScript, Python, C, DSA, MongoDB, React, Node.js, Git, GitHub.
+ Workshop reflections: I learned why we need three different commands (`git add .`, `git commit`, and `git push`). I understood the developer area, staging area, and production area concepts. I also learned how to fork a repository and how to raise a Pull Request.
+ One Git concept learned: Developer area, staging area, and production area.
+ One Git concept to explore further: How to merge branches and how to review code before merging.
+
+ 
