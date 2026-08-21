@@ -3,6 +3,7 @@
 
 The project uses Git for version control.
 
+This is the practice assignment for GitHub Merge Conflict resolve.
 
 # Scenario 1
 
