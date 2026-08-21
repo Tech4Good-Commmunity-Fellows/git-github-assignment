@@ -1,8 +1,13 @@
+# Learning Notes
 # Git Learning Notes
 
 ## 1. git clone
 
 **What it does:**
+Copies a GitHub repository to my computer.
+
+**When I use it:**
+When I want to start working on an existing project.
 Creates a copy of a remote Git repository on your local computer.
 
 **Real-world use:**
@@ -13,6 +18,10 @@ I used `git clone` to download my forked GitHub repository to my laptop before s
 ## 2. git status
 
 **What it does:**
+Shows which files have changed and whether they are staged.
+
+**When I use it:**
+Before every commit to check my work.
 Shows the current state of the repository, including modified, staged, and untracked files.
 
 **Real-world use:**
@@ -23,6 +32,10 @@ I used `git status` many times to check whether my changes were ready to commit.
 ## 3. git add
 
 **What it does:**
+Moves selected changes to the staging area.
+
+**When I use it:**
+Before creating a commit.
 Moves file changes to the staging area before committing.
 
 **Real-world use:**
@@ -33,6 +46,10 @@ I used `git add` after editing my participant profile and documentation files.
 ## 4. git commit
 
 **What it does:**
+Saves my staged changes with a message.
+
+**When I use it:**
+After finishing a small logical task.
 Creates a snapshot of the staged changes with a meaningful message.
 
 **Real-world use:**
@@ -43,6 +60,10 @@ I used `git commit` after completing each logical task, such as updating my prof
 ## 5. git push
 
 **What it does:**
+Uploads my commits to GitHub.
+
+**When I use it:**
+After committing my work so others can see it.
 Uploads local commits to the remote GitHub repository.
 
 **Real-world use:**
