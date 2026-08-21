@@ -1,10 +1,10 @@
 # Nikita
 
-- Name: Nikita
-- College: > TODO: Add your college name.
-- Favourite programming language: > TODO: Add your favourite programming language.
-- Favourite project: > TODO: Add a project you enjoyed working on.
-- Technologies known: > TODO: List the technologies you know.
-- Workshop reflections: > TODO: Write a short reflection on what you learned.
-- One Git concept learned: > TODO: Add one Git concept you learned today.
-- One Git concept to explore further: > TODO: Add one Git concept you want to study next.
+- Name: Nikita Sarma
+- College: CIT Kokrajhar (B.Tech in Computer Science)
+- Favourite programming language: Python
+- Favourite project: Health state prediction system
+- Technologies known: Python, JavaScript, SQL, React, deep learning frameworks
+- Workshop reflections: Today I learned that Git isn't just about saving code it's about coordinating with a team so everyone's changes fit together cleanly.
+- One Git concept learned: How forking and the origin/upstream remotes work together where origin is my personal copy I push to, upstream is the original repo I pull updates from to stay in sync with the team(t4gc one)
+- One Git concept to explore further: Rebasing
