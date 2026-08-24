@@ -24,6 +24,6 @@ After completing a task, the changes can be uploaded to GitHub using `git push`.
 Using Git regularly helps maintain an organized project history. It also makes it easier to identify previous changes, work with other developers, and safely experiment with new features without disturbing the main codebase.
 
 
-Edited by Mahima....!
+Edited by Mahimaa....!
 
 >>>>>>> origin/feature-mahima
