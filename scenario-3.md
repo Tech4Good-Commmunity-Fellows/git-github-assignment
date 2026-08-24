@@ -11,7 +11,7 @@ Pull requests are used to share completed work with the rest of the team. Other 
 
 Developers also use `git pull` to get the latest changes from the remote repository. Keeping the local repository updated helps developers work with the latest version of the project and reduces the chances of conflicts when their work is merged.
 
-Following a consistent Git workflow makes teamwork more organized and reliable. It allows developers to work independently, review changes, maintain a clear history, and safely combine their work with other team members.
+
 
 Edited by Nandhini
 =======
