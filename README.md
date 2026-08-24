@@ -97,4 +97,4 @@ Start with [ASSIGNMENT.md](ASSIGNMENT.md) for the step-by-step workshop instruct
 
 ## Support Notes
 
-Git helps teams collaborate and manage changes safely.
+Git helps developers work together, collaborate, and manage changes safely.
