@@ -118,6 +118,16 @@ The final merge was completed successfully and my working tree was clean.
 
 ## Additional Conflict
 
-As required by the assignment, I will create one additional merge conflict after completing the Team 3 exercise. I will create the conflict intentionally, investigate it using `git status` and `git diff`, understand the conflicting changes, resolve it manually, verify the final file, commit the resolution, and push it to GitHub.
+After completing the Team 3 conflict, I created an additional merge conflict to practice the process again.
 
-I will document that additional conflict and what I learned from it as part of this assignment.
+I created two temporary branches called `mahima-conflict-test` and `mahima-conflict-other`. Both branches made different changes to the same area of `README.md`.
+
+When I merged `mahima-conflict-test` into `mahima-conflict-other`, Git could not automatically combine the changes and reported a merge conflict.
+
+I first used `git status` to understand which file was conflicted. I then used `git diff` to inspect the differences between the two versions.
+
+Instead of blindly accepting one version, I opened `README.md`, looked at both changes, and manually combined the useful parts into one sentence. I removed the conflict markers and checked the final file.
+
+I then used `git add README.md` to mark the conflict as resolved and `git commit` to complete the merge.
+
+This additional exercise helped me understand the complete conflict-resolution process more clearly. I learned that the important part is not just knowing the commands, but understanding what both branches changed and deciding what the final version should contain.
