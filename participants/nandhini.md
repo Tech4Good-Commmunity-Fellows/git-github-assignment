@@ -1,10 +1,10 @@
 # Nandhini
 
 - Name: Nandhini
-- College: > TODO: Add your college name.
-- Favourite programming language: > TODO: Add your favourite programming language.
-- Favourite project: > TODO: Add a project you enjoyed working on.
-- Technologies known: > TODO: List the technologies you know.
-- Workshop reflections: > TODO: Write a short reflection on what you learned.
-- One Git concept learned: > TODO: Add one Git concept you learned today.
-- One Git concept to explore further: > TODO: Add one Git concept you want to study next.
+- College: Don Bosco College (Co-ed), Yelagiri Hills
+- Favourite programming language: Python, C++, Java
+- Favourite project: Ghost Blog Theme Development
+- Technologies known: HTML, CSS, JavaScript, Python, C++, Java, Git, GitHub, Ghost CMS
+- Workshop reflections: I learned the fundamentals of Git and GitHub, including how to fork a repository, clone it, create branches, make changes, commit them, and collaborate using GitHub. This workshop helped me understand how developers work together on projects.
+- One Git concept learned: Branching
+- One Git concept to explore further: Pull Requests and Merge Conflicts

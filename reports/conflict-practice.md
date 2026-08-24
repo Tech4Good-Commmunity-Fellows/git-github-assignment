@@ -1,4 +1,4 @@
-# Git Conflict Practice
+The project uses Git for managing project changes.# Git Conflict Practice
 
 This file is being used to practice creating and resolving a Git merge conflict.
 
