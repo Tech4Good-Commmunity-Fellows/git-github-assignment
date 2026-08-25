@@ -1,3 +1,3 @@
 # My Conflict Practice
 
-Git helps developers collaborate.
+Git helps developers collaborate effectively.
