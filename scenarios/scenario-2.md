@@ -2,7 +2,7 @@
 
 GitHub is a web-based platform used by developers to store, manage, and share code. It uses Git for version control and helps teams collaborate on software projects.
 
-###ody
+###Body
 
 GitHub allows users to create repositories, upload code, track changes, and work together with other developers. Features such as branches, commits, pull requests, and issues make it easier to manage projects and review code. It is also widely used to build portfolios, contribute to open-source projects, and collaborate with teams.
 
