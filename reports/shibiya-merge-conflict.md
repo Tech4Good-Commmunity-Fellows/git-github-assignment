@@ -28,7 +28,7 @@ Since the two developers changed different sections, both changes were useful an
 
 ## 6. What would have happened if both developers had changed different lines?
 
-If both developers changed different lines or sections, Git could usually combine the changes automatically without creating a conflict. This is what happened in our Team 2 scenario.
+If both developers changed different lines or sections, Git would usually combine the changes automatically without creating a conflict. This is what happened in our Team 2 scenario because I modified the Introduction while my teammate modified a different section.
 
 ## 7. Why shouldn't you blindly choose "Accept Current" or "Accept Incoming"?
 
@@ -53,3 +53,47 @@ For additional practice, I created two branches that modified the same line of a
 I investigated the conflict using `git status` and `git diff`. I examined the conflict markers in the file and compared the changes from both branches. I then manually combined the useful changes, removed all conflict markers, verified the final file, and completed the merge.
 
 This additional exercise helped me understand how a real merge conflict occurs and how to resolve it manually.
+
+## Part 10 — Self-Created Merge Conflict
+
+For additional practice, I created a separate merge conflict using `scenarios/my-conflict.md`.
+
+First, I created the branch `feature/shibiya/conflict-a` and changed the line:
+
+> Git helps developers collaborate.
+
+to:
+
+> Git helps developers collaborate effectively.
+
+I committed this change.
+
+Next, I returned to `feature/shibiya/merge-conflict` and created another branch called `feature/shibiya/conflict-b`. On this branch, I changed the same line to:
+
+> Git helps developers collaborateacroos teams.
+
+I committed this change separately.
+
+I then merged `feature/shibiya/conflict-a` into my `feature/shibiya/merge-conflict` branch. After that, I tried to merge `feature/shibiya/conflict-b`.
+
+Git reported:
+
+`CONFLICT (content): Merge conflict in scenarios/my-conflict.md`
+
+I used `git status` and `git diff` to investigate the conflict. The file contained the conflict markers `<<<<<<<`, `=======`, and `>>>>>>>`, showing the two different versions.
+
+I manually resolved the conflict by combining the useful meaning from both changes and correcting the text to:
+
+> Git helps developers collaborate effectively across teams.
+
+I removed all conflict markers and used `git add` to mark the conflict as resolved. I then verified the staged changes using `git diff --cached`.
+
+Finally, I completed the merge with:
+
+`git commit -m "Resolve self-created merge conflict"`
+
+The merge was successfully completed, and `git status` showed:
+
+`nothing to commit, working tree clean`
+
+This exercise helped me understand that a merge conflict occurs when Git cannot automatically decide between overlapping changes, and that the developer must intentionally decide what the final content should be.
