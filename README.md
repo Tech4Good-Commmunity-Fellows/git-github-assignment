@@ -97,6 +97,7 @@ Start with [ASSIGNMENT.md](ASSIGNMENT.md) for the step-by-step workshop instruct
 
 ## Support Notes
 
+Git helps developers work together, collaborate, and manage changes safely.
 If anything is unclear during the workshop, ask a facilitator or leave a note in your pull request description so the reviewer can help clarify the next step.
 
 ## Support Notes
