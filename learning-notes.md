@@ -51,6 +51,35 @@ Uploads your local commits to a remote repository (usually your fork).
 After committing my changes on a feature branch, I run `git push -u origin feature/your-name/profile` so I can open a pull request from GitHub.
 
 # Learning Notes
+
+## git clone
+
+**Purpose:** Copies a repository from GitHub to my computer.
+
+**Real-world use:** When joining a project for the first time.
+## git status
+Purpose: Shows current file changes.
+
+Real-world use:
+Before committing changes.
+
+## git add
+Purpose: Adds files to the staging area.
+
+Real-world use:
+When preparing files for commit.
+
+## git commit
+Purpose: Saves staged changes.
+
+Real-world use:
+After completing a task.
+
+## git push
+Purpose: Uploads commits to GitHub.
+
+Real-world use:
+When sharing work with teammates.
 # Git Learning Notes
 
 ## 1. git clone
