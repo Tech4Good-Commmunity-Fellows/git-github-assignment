@@ -100,6 +100,7 @@ Start with [ASSIGNMENT.md](ASSIGNMENT.md) for the step-by-step workshop instruct
 Git helps developers work together, collaborate, and manage changes safely.
 If anything is unclear during the workshop, ask a facilitator or leave a note in your pull request description so the reviewer can help clarify the next step.
 
+## Support Notes
 ## Contributors
 - Pooja
 
@@ -109,7 +110,8 @@ If anything is unclear during the workshop, ask a facilitator or leave a note in
 
 - Nandhini
 
+If anything is unclear during the workshop, ask a facilitator or leave a note in your pull request description so the reviewer can help clarify the next step.
 
 ## Contributors
 
-- Nikita
+- Leela Chouhan
