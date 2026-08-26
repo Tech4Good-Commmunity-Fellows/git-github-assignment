@@ -40,3 +40,22 @@ Deleting a branch in Git doesn't actually delete the commits on it — it just r
 
 Because `experiment` was never merged into `main`, deleting it also had zero effect on `main`'s history or on anyone else working from the shared repository. This is different from something like `git reset --hard` on a shared branch, which can rewrite history other people are relying on. Here, the "damage" was fully contained to a throwaway branch only I knew about, so deleting it was a clean, low-risk way to fully discard the experiment without touching real repository history.
 
+# Recovery Challenge
+
+## Commands Used
+
+```bash
+git checkout -b experiment
+touch temporary.txt
+git add temporary.txt
+git commit -m "Add temporary file"
+git revert HEAD
+Commands used:
+git checkout -b experiment
+echo "temp" > temporary.txt
+git add temporary.txt
+git commit -m "Add temporary file for recovery test"
+git checkout main
+git branch -D experiment
+
+Why this is safe: the commit (b2e6e97) still exists in Git's internal history and is recoverable via `git reflog` until garbage collected — deleting the branch just removes the pointer to it, not the commit itself. Since `experiment` was never merged into `main`, deleting the branch doesn't affect `main`'s history at all. This is a safe way to fully discard experimental work without touching the shared branch.
